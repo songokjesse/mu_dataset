@@ -6,9 +6,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Dataset Name",
+  title: "Benchmark Dataset",
   description: "A comprehensive dataset for research and applications",
-    generator: 'v0.dev'
+    generator: 'mu.ac.ke'
 }
 
 export default function RootLayout({
