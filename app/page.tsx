@@ -73,11 +73,11 @@ export default function Home() {
             <div className="mb-4 flex items-center space-x-1 text-sm text-muted-foreground">
               <div className="overflow-hidden text-ellipsis whitespace-nowrap">Datasets</div>
               <div>/</div>
-              <div className="font-medium text-foreground">Dataset Name</div>
+              <div className="font-medium text-foreground">Benchmark Dataset</div>
             </div>
             <div className="space-y-2">
               <h1 className="scroll-m-20 text-4xl font-bold tracking-tight" id="overview">
-                Dataset Name
+                Benchmark Dataset
               </h1>
               <div className="flex items-center space-x-2">
                 <Badge variant="secondary">v1.0.0</Badge>
