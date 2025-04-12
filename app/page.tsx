@@ -23,7 +23,7 @@ export default function Home() {
                 height={40}
                 className="h-10 w-auto"
               />
-              <span className="hidden font-bold sm:inline-block">Dataset Name</span>
+              <span className="hidden font-bold sm:inline-block">Benchmark Dataset</span>
             </Link>
           </div>
 
